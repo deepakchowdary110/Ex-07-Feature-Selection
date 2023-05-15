@@ -19,8 +19,8 @@ Save the data to the file
 
 # CODE
 ```
-Developed by: O. Shanthan Kumar Reddy
-Reg no: 212220040107
+Developed by: M. Deepak Chowdary
+Reg no: 212220040085
 ```
 ```
 #Importing libraries
